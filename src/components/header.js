@@ -19,9 +19,7 @@ const Header = () => {
             <img
               alt=""
               src="/logo.png"
-              width="40"
-              height="40"
-              className="d-inline-block align-top"
+              className="d-inline-block align-top custom-logo"
             />
           </span>
 
