@@ -8,7 +8,7 @@ The code base is based on React JavaScript and can be found at [this GitHub repo
 ### Single-page Application
 Single-page applications provides users with a seamless web browsing experience when navigating to different pages of the web application without having the browser to load new pages.
 
-Clicking on the above tabs illustrates this seamless experience. In contrast, clicking on [this link](/blog) to view the 'Blog' tab reloads the web page.
+Clicking on the above tabs illustrates this seamless experience. In contrast, clicking on [this link](#/blog) to view the 'Blog' tab reloads the web page.
 
 ### Data Binding
 As defined at [GeeksforGeeks](https://www.geeksforgeeks.org/reactjs-data-binding/), data binding is the process of connecting the view element or user interface, with the data which populates it.
