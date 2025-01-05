@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkalittlecow=self.webpackChunkalittlecow||[]).push([[712],{712:(e,c,t)=>{e.exports=t.p+"static/media/sample1.2f691bf3d0caec3f789c.md"}}]);
