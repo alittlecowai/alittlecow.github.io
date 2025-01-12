@@ -4,12 +4,12 @@ import { NavLink, useNavigate } from 'react-router-dom';
 
 const Header = () => {
   const [searchQuery, setSearchQuery] = useState('');
-  let navigate = useNavigate();
+  const navigate = useNavigate();
   useEffect(() => {
     if (searchQuery.length >= 3) {
       navigate(`/blog/${searchQuery}`);
     }
-  }, [searchQuery]);
+  }, [searchQuery]); // eslint-disable-line
 
   return (
     <header className="p-3 mb-3 border-bottom">
