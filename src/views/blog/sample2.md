@@ -1,4 +1,4 @@
-# 🐮 A Little Cow Sample 2
+# 🐮 Sample Docker Commands
 Sample Markdown Bash Command:
 ```bash
 docker ps -a

@@ -1,5 +1,4 @@
-# 🐮 A Little Cow Sample 1
-Sample Markdown Table:
+# 🐮 Overview of Various Software Development Tools
 
 | **Category**              | **Technical Terms**                             | **Description**                                                                |
 |---------------------------|-------------------------------------------------|--------------------------------------------------------------------------------|
