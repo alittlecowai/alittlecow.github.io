@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalittlecow_github_io=self.webpackChunkalittlecow_github_io||[]).push([[893],{893:(e,t,i)=>{e.exports=i.p+"static/media/sample2.e4512eafd8695d30ce00.md"}}]);
